@@ -1,4 +1,4 @@
-##Implementing a git server on the Raspberry Pi 4##
+## Implementing a git server on the Raspberry Pi 4 ##
 
 **Project members**:
 
