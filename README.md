@@ -41,7 +41,9 @@ server on the Raspberry Pi 4 device.
 - Make a free ngrok account at https://ngrok.com/
 - Create a remote terminal session via ssh by typing ssh pi@XX.XX.XX.XXXX
 - Type in credentials (Username: Pi, Password: Raspberry)
-- (On Raspberry Pi remotely)
+
+(On Raspberry Pi remotely)
+
 - Install git with sudo apt-get install git
 - Install ngrok with:
 	- sudo wget https://dl.ngrok.com/ngrok_2.0.19_linux_arm.zip (download zip)
