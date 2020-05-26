@@ -3,8 +3,8 @@
 **Project members**:
 
 - Alexandra Chambers 
-- Alexander Dao,
-- Turhan Kimbrough,
+- Alexander Dao
+- Turhan Kimbrough
 - Vince Lepatan
 
 **Key Technologies:**
